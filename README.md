@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a Cricket App<br>👯 I’m looking to collaborate on mathesar<br>🤝 I’m looking for help with referrals<br>🌱 I’m currently learning zustand<br>💬 Ask me about React.js, Next.js, Typescript, python, tailwindcss, Mongodb, Express<br>⚡ Fun fact I am a self taught developer even though I am doing a CSE degree
+🔭 I’m currently working on building a Cricket App<br>👯 I’m looking to collaborate on mathesar<br>🤝 I’m looking for help with referrals<br>🌱 I’m currently learning Mobile App Development<br>💬 Ask me about React.js, Next.js, Typescript, python, tailwindcss, Mongodb, Express<br>⚡ Fun fact I am a self taught developer even though I am doing a CSE degree
 
 
 ## 🌐 Socials:
